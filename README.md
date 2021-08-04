@@ -1,7 +1,7 @@
 # HRV-RRV-Toolkit
 HRV-RRV-Toolkit is a Tkinter based application capable of processing and estimating Hear rate variability and respiratory rate variability parameters. The tools is entirely developed in python programming language. The tool was developed as part of an initial stage of research based on Autonomic dysfunction prediction based on HRV and RRV estimated features . A research journal article has been published as part of the research done at [Amrita Instutite of Medical Sciences and Research](https://amritahospitals.org).
 
-__The article can be obtained from [International Journal of Online and Biomedical Engineering]__(https://online-journals.org/index.php/i-joe/article/view/22581)
+__The article can be obtained from [International Journal of Online and Biomedical Engineering]__(https://online-journals.org/index.php/i-joe/article/view/22581).
 
 ## Features
 * Capable of processing ECG data
